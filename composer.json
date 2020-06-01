@@ -1,5 +1,5 @@
 {
-    "name": "spatie/pdf-to-text",
+    "name": "tomaz-k/pdf-to-text",
     "description": "Extract text from a pdf",
     "keywords": [
         "spatie",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php" : "^7.3",
+        "php" : "^7.2",
         "symfony/process": "^4.0|^5.0"
     },
     "require-dev": {
